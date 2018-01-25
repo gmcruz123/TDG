@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TDG1</string>
+    <string name="TitleBLE">Bluetooth LE Devices</string>
+</resources>
+
